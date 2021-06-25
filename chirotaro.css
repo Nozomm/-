@@ -1,10 +1,15 @@
 
+.container　navbar-header {
+    width: 50%;
 
+}
 
+.starter-template {
+    padding: 40px 15px;
+    background-color: white;
+}
+      
 
-
-
-footer p {
+.footer p {
     text-align: right;
-
 }
